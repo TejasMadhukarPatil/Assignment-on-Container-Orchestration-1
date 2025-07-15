@@ -15,6 +15,10 @@ REACT_APP_API_BASE_URL=http://localhost:3001
 
 
 Build Steps
+
+
+
+
 Building the docker image. React application is running at port 3000 inside the container and is exposed at port 80 in host machine.
 
 
