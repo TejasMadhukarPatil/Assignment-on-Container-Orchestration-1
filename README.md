@@ -6,7 +6,10 @@ Installing the node_modules:
 
 
 npm install --force
-Create .env file with following content but change the link to backend:
+
+
+Create .env 
+file with following content but change the link to backend:
 
 
 
